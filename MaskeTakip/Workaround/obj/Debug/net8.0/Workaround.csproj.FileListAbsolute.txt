@@ -1,0 +1,15 @@
+C:\Development\C#\MaskeTakip\MaskeTakip\Workaround\bin\Debug\net8.0\Workaround.exe
+C:\Development\C#\MaskeTakip\MaskeTakip\Workaround\bin\Debug\net8.0\Workaround.deps.json
+C:\Development\C#\MaskeTakip\MaskeTakip\Workaround\bin\Debug\net8.0\Workaround.runtimeconfig.json
+C:\Development\C#\MaskeTakip\MaskeTakip\Workaround\bin\Debug\net8.0\Workaround.dll
+C:\Development\C#\MaskeTakip\MaskeTakip\Workaround\bin\Debug\net8.0\Workaround.pdb
+C:\Development\C#\MaskeTakip\MaskeTakip\Workaround\obj\Debug\net8.0\Workaround.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\C#\MaskeTakip\MaskeTakip\Workaround\obj\Debug\net8.0\Workaround.AssemblyInfoInputs.cache
+C:\Development\C#\MaskeTakip\MaskeTakip\Workaround\obj\Debug\net8.0\Workaround.AssemblyInfo.cs
+C:\Development\C#\MaskeTakip\MaskeTakip\Workaround\obj\Debug\net8.0\Workaround.csproj.CoreCompileInputs.cache
+C:\Development\C#\MaskeTakip\MaskeTakip\Workaround\obj\Debug\net8.0\Workaround.dll
+C:\Development\C#\MaskeTakip\MaskeTakip\Workaround\obj\Debug\net8.0\refint\Workaround.dll
+C:\Development\C#\MaskeTakip\MaskeTakip\Workaround\obj\Debug\net8.0\Workaround.pdb
+C:\Development\C#\MaskeTakip\MaskeTakip\Workaround\obj\Debug\net8.0\Workaround.genruntimeconfig.cache
+C:\Development\C#\MaskeTakip\MaskeTakip\Workaround\obj\Debug\net8.0\ref\Workaround.dll
+C:\Development\C#\MaskeTakip\MaskeTakip\Workaround\obj\Debug\net8.0\Workaround.csproj.AssemblyReference.cache
